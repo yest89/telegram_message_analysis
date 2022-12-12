@@ -1,4 +1,4 @@
-# telegram_message_analysis
+# Telegram Message Analysis
 The analysis of messages from telegram
 
 ipython notebook has all analyses.
